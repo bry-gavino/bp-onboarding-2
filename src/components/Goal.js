@@ -20,3 +20,4 @@ const Goal = ({ goal, updates }) => {
 }
 
 export default Goal
+
